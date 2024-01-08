@@ -49,7 +49,7 @@ An e-commerce website with a responsive design and user-friendly interface. Deve
 Feel free to reach out to me through the following channels:
 
 - Email: hanjrajasmine@gmail.com
-- LinkedIn: [Jasmie Hanjra]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/jasminehanjra/))
+- LinkedIn: [Jasmine Hanjra]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/jasminehanjra/))
 
 ---
 
