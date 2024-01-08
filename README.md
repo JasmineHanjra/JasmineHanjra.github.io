@@ -48,9 +48,8 @@ An e-commerce website with a responsive design and user-friendly interface. Deve
 
 Feel free to reach out to me through the following channels:
 
-- Email: john.doe@example.com
-- LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe/)
-- Personal Website: [www.johndoe.com](https://www.johndoe.com)
+- Email: hanjrajasmine@gmail.com
+- LinkedIn: [Jasmie Hanjra]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/jasminehanjra/))
 
 ---
 
